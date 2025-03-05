@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "tailwindcss-animated";
+@import "tailwindcss-intersect";
+
+body{
+  background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+}
+
